@@ -2,7 +2,7 @@
 
 Analysis of two years of online store data (2024-2025) to understand revenue, profit, customer value and returns, with an interactive dashboard.
 
-![Dashboard preview](dashboard_preview.png)
+![Dashboard preview](dashboard_preview.png.png)   
 
 **Live dashboard:** https://bharath-0917.github.io/E-Commerce-sales-analysis/dashboard/
 
