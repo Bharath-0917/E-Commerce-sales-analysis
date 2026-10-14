@@ -2,7 +2,7 @@
 
 Analysis of two years of online store data (January 2024 to December 2025) to understand revenue, profit, customer value and product returns, with an interactive sales dashboard.
 
-![Dashboard preview](dashboard_preview.png .png) 
+![Dashboard preview](dashboard_preview.png.png) 
 
 *The preview shows all order statuses. The key findings below use completed orders only, which is the dashboard's default view.*
 
