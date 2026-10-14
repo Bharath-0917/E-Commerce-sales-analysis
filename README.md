@@ -68,4 +68,4 @@ Four related tables: customers (3,600), products (90), orders and order items (1
 - Chart images and the dashboard preview
 
 ## Tools
-Python (Pandas, Matplotlib), Google Colab, HTML and JavaScript (Chart.js) for the interactive dashboard.
+Python (Pandas, Matplotlib), Google Colab, Power BI for the interactive dashboard.
